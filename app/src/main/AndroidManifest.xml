@@ -15,7 +15,8 @@
 
         <activity
             android:name="pl.wsei.pam.lab03.Lab03Activity"
-            android:exported="false" />
+            android:exported="false"
+            android:label="Lab03" />
 
         <activity
             android:name="pl.wsei.pam.lab02.Lab02Activity"
